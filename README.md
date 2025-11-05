@@ -56,12 +56,28 @@ After each simulation, users receive an **Ethical Awareness Score** and personal
 
 ---
 
+
 ## 🖼️ Screenshots  
 
-![🏠 Home Page](images/home.png)
-![📊 Dashboard](images/dashboard.png)
-![🎯 Result Page](images/result.png)
-![📈 Learning Progress](images/learningprogress.png)
+<h3 align="center">🏠 Home Page</h3>
+<p align="center">
+  <img src="images/home.png" width="750" alt="Home Page"/>
+</p>
+
+<h3 align="center">📊 Dashboard</h3>
+<p align="center">
+  <img src="images/dashboard.png" width="750" alt="Dashboard"/>
+</p>
+
+<h3 align="center">🎯 Result Page</h3>
+<p align="center">
+  <img src="images/result.png" width="750" alt="Result Page"/>
+</p>
+
+<h3 align="center">📈 Learning Progress</h3>
+<p align="center">
+  <img src="images/learningprogress.png" width="750" alt="Learning Progress"/>
+</p>
 
 ---
 
